@@ -1,0 +1,17 @@
+E:\WPFStudy\ContourTracker\WpfBrowserApplication1\bin\Debug\WpfBrowserApplication1.exe.manifest
+E:\WPFStudy\ContourTracker\WpfBrowserApplication1\bin\Debug\WpfBrowserApplication1.xbap
+E:\WPFStudy\ContourTracker\WpfBrowserApplication1\bin\Debug\WpfBrowserApplication1.exe
+E:\WPFStudy\ContourTracker\WpfBrowserApplication1\bin\Debug\WpfBrowserApplication1.pdb
+E:\WPFStudy\ContourTracker\WpfBrowserApplication1\obj\Debug\ResolveAssemblyReference.cache
+E:\WPFStudy\ContourTracker\WpfBrowserApplication1\obj\Debug\Page1.baml
+E:\WPFStudy\ContourTracker\WpfBrowserApplication1\obj\Debug\Page1.g.cs
+E:\WPFStudy\ContourTracker\WpfBrowserApplication1\obj\Debug\App.g.cs
+E:\WPFStudy\ContourTracker\WpfBrowserApplication1\obj\Debug\WpfBrowserApplication1_MarkupCompile.cache
+E:\WPFStudy\ContourTracker\WpfBrowserApplication1\obj\Debug\WpfBrowserApplication1.g.resources
+E:\WPFStudy\ContourTracker\WpfBrowserApplication1\obj\Debug\WpfBrowserApplication1.Properties.Resources.resources
+E:\WPFStudy\ContourTracker\WpfBrowserApplication1\obj\Debug\Basic3DShapeExample.csproj.GenerateResource.Cache
+E:\WPFStudy\ContourTracker\WpfBrowserApplication1\obj\Debug\WpfBrowserApplication1.TrustInfo.xml
+E:\WPFStudy\ContourTracker\WpfBrowserApplication1\obj\Debug\WpfBrowserApplication1.exe.manifest
+E:\WPFStudy\ContourTracker\WpfBrowserApplication1\obj\Debug\WpfBrowserApplication1.xbap
+E:\WPFStudy\ContourTracker\WpfBrowserApplication1\obj\Debug\WpfBrowserApplication1.exe
+E:\WPFStudy\ContourTracker\WpfBrowserApplication1\obj\Debug\WpfBrowserApplication1.pdb

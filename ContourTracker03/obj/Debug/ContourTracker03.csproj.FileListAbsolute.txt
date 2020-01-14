@@ -1,0 +1,9 @@
+E:\WPFStudy\ContourTracker\ContourTracker03\bin\Debug\ContourTracker03.exe
+E:\WPFStudy\ContourTracker\ContourTracker03\bin\Debug\ContourTracker03.pdb
+E:\WPFStudy\ContourTracker\ContourTracker03\obj\Debug\ResolveAssemblyReference.cache
+E:\WPFStudy\ContourTracker\ContourTracker03\obj\Debug\ContourTracker03.ContourLevelsForm.resources
+E:\WPFStudy\ContourTracker\ContourTracker03\obj\Debug\ContourTracker03.ContourTrackerForm.resources
+E:\WPFStudy\ContourTracker\ContourTracker03\obj\Debug\ContourTracker03.Properties.Resources.resources
+E:\WPFStudy\ContourTracker\ContourTracker03\obj\Debug\ContourTracker03.csproj.GenerateResource.Cache
+E:\WPFStudy\ContourTracker\ContourTracker03\obj\Debug\ContourTracker03.exe
+E:\WPFStudy\ContourTracker\ContourTracker03\obj\Debug\ContourTracker03.pdb

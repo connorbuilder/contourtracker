@@ -1,0 +1,14 @@
+E:\WPFStudy\ContourTracker\ContourTracker01\bin\Debug\ContourTracker01.exe
+E:\WPFStudy\ContourTracker\ContourTracker01\bin\Debug\ContourTracker01.pdb
+E:\WPFStudy\ContourTracker\ContourTracker01\obj\Debug\ResolveAssemblyReference.cache
+E:\WPFStudy\ContourTracker\ContourTracker01\obj\Debug\Window1.baml
+E:\WPFStudy\ContourTracker\ContourTracker01\obj\Debug\Window1.g.cs
+E:\WPFStudy\ContourTracker\ContourTracker01\obj\Debug\App.g.cs
+E:\WPFStudy\ContourTracker\ContourTracker01\obj\Debug\ContourTracker01_MarkupCompile.cache
+E:\WPFStudy\ContourTracker\ContourTracker01\obj\Debug\ContourTracker01.g.resources
+E:\WPFStudy\ContourTracker\ContourTracker01\obj\Debug\ContourTracker01.Properties.Resources.resources
+E:\WPFStudy\ContourTracker\ContourTracker01\obj\Debug\ContourTracker01.csproj.GenerateResource.Cache
+E:\WPFStudy\ContourTracker\ContourTracker01\obj\Debug\ContourTracker01.exe
+E:\WPFStudy\ContourTracker\ContourTracker01\obj\Debug\ContourTracker01.pdb
+E:\WPFStudy\ContourTracker\ContourTracker01\obj\Debug\SetContourLevelWindow.baml
+E:\WPFStudy\ContourTracker\ContourTracker01\obj\Debug\SetContourLevelWindow.g.cs

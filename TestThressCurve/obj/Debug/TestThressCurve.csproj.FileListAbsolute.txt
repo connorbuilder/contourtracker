@@ -1,0 +1,5 @@
+E:\WPFStudy\ContourTracker\TestThressCurve\obj\Debug\ResolveAssemblyReference.cache
+E:\WPFStudy\ContourTracker\TestThressCurve\bin\Debug\TestThressCurve.exe
+E:\WPFStudy\ContourTracker\TestThressCurve\bin\Debug\TestThressCurve.pdb
+E:\WPFStudy\ContourTracker\TestThressCurve\obj\Debug\TestThressCurve.exe
+E:\WPFStudy\ContourTracker\TestThressCurve\obj\Debug\TestThressCurve.pdb
